@@ -328,7 +328,7 @@ Run samples on a 2% agarose gel (use 1x NaBorate buffer, SYBR SAFE dye).
   * Ladder: 2 µl 10 bp ladder, 7 µl water, 1 µl dye.
 * Load samples every other lane.
 * Run for 30 minutes at 200V.
-* Extract the 125 bp band from the gel .
+* Extract each 125 bp band from the gel .
 
 Gel purify with Qiagen Gel Extraction Kit (include isopropanol step) and elute in 35 µL EB.
 
